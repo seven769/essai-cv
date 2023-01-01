@@ -1,0 +1,29 @@
+.container{
+    margin: auto;
+    width: 700px;
+    height: 300px;
+    box-shadow: 1px 4px 4px 6px rgb(84, 83, 85);
+    height: initial;
+
+}
+.profile_img{
+    height: 100px;
+    width: 100px;
+    border: 8px solid green;
+}
+.profile_bloc{
+    background-color: brown;
+    width: 400px;
+   
+}
+.profile_desc{
+    background-color: blueviolet;
+    
+}
+
+.profile_cp{
+    background-color: aquamarine;
+}
+.profile_exp{
+    background-color: blue;
+}
